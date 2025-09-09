@@ -5,6 +5,7 @@
 本文档旨在为国内开发者、研究人员及AI爱好者提供一份详尽的 **Google Gemini 2.5 Pro 模型介绍** 和 **国内无障碍使用教程**。你将了解到该模型的革命性特性，并通过我们精选的平台，轻松上手体验其强大功能。
 
 Gemini 中文版：[https://xsimplechat.com](https://xsimplechat.com)
+
 Gemini 镜像网站：[https://chat.lanjingai.org](https://chat.lanjingai.org)
 
 ## 📖 模型介绍：不止于强大，更是“会思考”的 AI
