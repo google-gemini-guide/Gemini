@@ -1,12 +1,12 @@
 # Google Gemini 国内使用指南：无需魔法，在国内流畅使用 Gemini 2.5 Pro 的最佳方式【2025年9月】
 
-> 更新时间：2025年9月15日
+> 更新时间：2025年9月20日
 
 本文档旨在为国内开发者、研究人员及AI爱好者提供一份详尽的 **Google Gemini 2.5 Pro 模型介绍** 和 **国内无障碍使用教程**。你将了解到该模型的革命性特性，并通过我们精选的平台，轻松上手体验其强大功能。
 
 Gemini 中文版：[https://xsimplechat.com](https://xsimplechat.com)
 
-Gemini 镜像网站：[https://chat.lanjingai.org](https://chat.lanjingai.org)
+Gemini 镜像网站：[https://ai.lanjingai.org](https://ai.lanjingai.org)
 
 ## 📖 模型介绍：不止于强大，更是“会思考”的 AI
 
@@ -44,7 +44,7 @@ Gemini 2.5 Pro 能够进行高质量的自然语言对话，并支持通过提�
 | 平台名称 | 核心亮点 | 推荐用户 | 直达链接 |
 | :--- | :--- | :--- | :--- |
 | **XsimpleChat** | **功能全面，模型覆盖广**：除Gemini外，还支持GPT-5、Claude 4等20余款模型，并提供AI PPT、知识库等高级功能。 | 追求高效办公和学习的深度用户、职场人士。 | [➡️ 点击访问](https://xsimplechat.com) |
-| **蓝鲸 AI** | **极简高效，支持绘画**：界面清爽无干扰，专注对话体验。同时集成Midjourney等，便于文生图创作。 | 喜欢简洁界面、追求效率的创作者和极客用户。 | [➡️ 点击访问](https://chat.lanjingai.org) |
+| **蓝鲸 AI** | **极简高效，支持绘画**：界面清爽无干扰，专注对话体验。同时集成Midjourney等，便于文生图创作。 | 喜欢简洁界面、追求效率的创作者和极客用户。 | [➡️ 点击访问](https://ai.lanjingai.org) |
 | **GPT中文版** | **免费试用，上手简单**：聚合主流模型，提供便捷的免费试用渠道，是跨模型尝鲜的最佳选择。 | AI初学者、想快速体验不同模型效果的普通用户。 | [➡️ 点击访问](https://chatgpt-chinese.com) |
 
 **使用步骤非常简单：**
